@@ -12,4 +12,6 @@ author1 = Author(1, 'as')
 authors.add(author1)
 author1 = Author(2, 'vc')
 authors.add(author1)
+author1 = Author(3, 'vh')
+authors.add(author1)
 print authors
